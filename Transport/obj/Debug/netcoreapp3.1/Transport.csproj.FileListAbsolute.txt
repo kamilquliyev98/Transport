@@ -1,0 +1,14 @@
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.exe
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.deps.json
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.json
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.dev.json
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.dll
+C:\Users\kamilag\source\repos\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.pdb
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.csproj.AssemblyReference.cache
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfoInputs.cache
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfo.cs
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.csproj.CoreCompileInputs.cache
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.dll
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.pdb
+C:\Users\kamilag\source\repos\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.genruntimeconfig.cache
